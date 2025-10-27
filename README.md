@@ -20,7 +20,7 @@
 
   - [**Web Application Development**](https://learn.georgebrown.ca/d2l/home/408290) — October 28, 8:00 am  
   - [**Software Quality Assurance**](https://learn.georgebrown.ca/d2l/home/405711) — October 30, 8:00 am  
-  - [**Introduction to Data Management**](https://learn.georgebrown.ca/d2l/home/412494) — *Maybe* October 27, 1:00 pm  
+  - [**Introduction to Data Management**](https://learn.georgebrown.ca/d2l/home/412494) — October 28, 4:00 pm  
   - [**IT Essentials**](https://learn.georgebrown.ca/d2l/home/408352) — October 30, 12:00 pm  
 
   </div>
